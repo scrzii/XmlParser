@@ -1,0 +1,3 @@
+C:\Users\Пользователь\source\repos\XmlParser\XmlParser\obj\Debug\XmlParser.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\XmlParser\XmlParser\obj\Debug\XmlParser.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\XmlParser\XmlParser\obj\Debug\XmlParser.csproj.CoreCompileInputs.cache

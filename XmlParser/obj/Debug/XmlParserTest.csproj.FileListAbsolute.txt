@@ -1,0 +1,8 @@
+C:\Users\Пользователь\source\repos\XmlParser\XmlParser\bin\Debug\XmlParser.exe.config
+C:\Users\Пользователь\source\repos\XmlParser\XmlParser\bin\Debug\XmlParser.exe
+C:\Users\Пользователь\source\repos\XmlParser\XmlParser\bin\Debug\XmlParser.pdb
+C:\Users\Пользователь\source\repos\XmlParser\XmlParser\obj\Debug\XmlParserTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\XmlParser\XmlParser\obj\Debug\XmlParserTest.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\XmlParser\XmlParser\obj\Debug\XmlParser.exe
+C:\Users\Пользователь\source\repos\XmlParser\XmlParser\obj\Debug\XmlParser.pdb
+C:\Users\Пользователь\source\repos\XmlParser\XmlParser\bin\Debug\Data.xml

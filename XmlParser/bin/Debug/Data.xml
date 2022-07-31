@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<body>
+	<somethingText attrib1 = "abacaba" attrib2 ="hello" />
+	<q attrib1 = "123" attrib ="hello" />
+	<q attrib = "321" attrib1 ="hello" />
+	<somethingText attrib_a = "qwe" attrib2 ="hello" attrib ="&lt;&quot;Нужное значение тут&quot;&gt;" />
+</body>
